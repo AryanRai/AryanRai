@@ -2,6 +2,10 @@
 - I'm a 15 year old student ... livin in india 
 - 🔭 I’m currently working on RGBeatz
 - 🌱 I’m currently learning C#
+
+
+
+
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanRai&theme=nightowl&show_icons=true)
 
 <!--
