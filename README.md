@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm a 15 year old student ... livin in india 
+- I'm a 16 year old student ... livin in india 
 - 🔭 I’m currently working on RGBeatz
 - 🌱 I’m currently learning C#
 
