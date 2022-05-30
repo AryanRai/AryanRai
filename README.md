@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 16 ... India... Student .... Vibing on my own
-- 🔭 Current head spinner (current project)~ FaceDetect
+- 🔭 Current head spinner (current project)~ Scooty Project
 - 🌱 Current brain eater (language learning)~ Svelte, Flutter/Dart
 - ⚡ Gang work (collaborated on) https://www.cloudfonduefilms.com/cardfondue
 
