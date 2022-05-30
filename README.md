@@ -1,8 +1,8 @@
 ### Hi there 👋
-- I'm a 16 year old student ... livin in india 
-- 🔭 I’m currently working on FaceDetect
-- 🌱 I’m currently learning Svelte
-- ⚡ I’ve collaborated on https://www.cloudfonduefilms.com/cardfondue
+- 16 ... India... Student .... Vibing on my own
+- 🔭 Current head spinner (current project)~ FaceDetect
+- 🌱 Current brain eater (language learning)~ Svelte, Flutter/Dart
+- ⚡ Gang work (collaborated on) https://www.cloudfonduefilms.com/cardfondue
 
 
 
