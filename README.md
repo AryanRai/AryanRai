@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 16 ... India... Student .... Vibing on my own
+- 17 ... India... Student .... 
 - 🔭 Current head spinner (current project)~ Scooty Project
 - 🌱 Current lang (language learning)~ Svelte, Flutter/Dart
 - ⚡ collaborative work (collaborated on) https://www.cloudfonduefilms.com/cardfondue
