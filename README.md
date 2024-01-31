@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 17 ... India... Student .... 
+- 17 ... India... Student ....
+- https://aryanrai.github.io/
 - 🔭 Current head spinner (current project)~ Scooty Project
 - 🌱 Current lang (language learning)~ Svelte, Flutter/Dart
 - ⚡ collaborative work (collaborated on) https://www.cloudfonduefilms.com/cardfondue
