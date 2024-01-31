@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 17 ... India... Student ....
+- 18 ... India, Gurgaon -> Australia, Sydney
+- Engineering Hons Mechatronics at The University of Sydney
 - https://aryanrai.github.io/
 - 🔭 Current head spinner (current project)~ Scooty Project
 - 🌱 Current lang (language learning)~ Svelte, Flutter/Dart
