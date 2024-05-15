@@ -2,10 +2,8 @@
 - 18 ... India, Gurgaon -> Australia, Sydney
 - Engineering Hons Mechatronics at The University of Sydney
 - https://aryanrai.github.io/
-- 🔭 Current head spinner (current project)~ Scooty Project
-- 🌱 Current lang (language learning)~ Svelte, Flutter/Dart
-- ⚡ collaborative work (collaborated on) https://www.cloudfonduefilms.com/cardfondue
-- Quick Read https://www.presidiumgurgaon.com/news_details/3563/presidians-add-wings-to-their-dreams-by-developing-a-drone.php
+- 🔭 Current head spinner (current project)~ Comms/BaseStationBlue
+- 🌱 Current lang (language learning)~ Rust
 
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanRai&theme=nightowl&show_icons=true)
