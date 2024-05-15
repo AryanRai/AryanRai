@@ -6,7 +6,6 @@
 - 🌱 Current lang (language learning)~ Rust
 
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanRai&theme=nightowl&show_icons=true)
 
 
 
