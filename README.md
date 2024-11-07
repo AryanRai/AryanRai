@@ -2,7 +2,7 @@
 - 18 ... India, Gurgaon -> Australia, Sydney
 - Engineering Hons Mechatronics at The University of Sydney
 - https://aryanrai.github.io/
-- 🔭 Current head spinner (current project)~ Comms/BaseStationBlue
+- 🔭 Current head spinner (current project)~ Comms
 - 🌱 Current lang (language learning)~ Rust
 
 
