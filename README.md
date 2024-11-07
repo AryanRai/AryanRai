@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 18 ... India, Gurgaon -> Australia, Sydney
+- 19 ... India, Gurgaon -> Australia, Sydney
 - Engineering Hons Mechatronics at The University of Sydney
 - https://aryanrai.github.io/
 - 🔭 Current head spinner (current project)~ Comms
