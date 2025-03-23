@@ -60,17 +60,3 @@ Frameworks: [ROS, Node.js, Electron, React]
 - 🎨 **Anime Pixel Art Lover?** I make pixel-styled animations!  
 
 ---
-
-🚀 Thanks for stopping by! **Drop a star ⭐ if you like my work!**  
-```
-
----
-
-### ✨ Features Added:  
-- **Pixel/Minecraft vibes**: Uses ASCII progress bars, pixel-art-style sections.  
-- **More Interactivity**: Progress bar for current projects, fun quest-like styling.  
-- **Call-to-Actions**: Links to projects, portfolio, and upcoming YouTube.  
-- **Custom Shields.io Badges**: For GitHub, Twitter, and website.  
-- **Pixel Art / GIFs**: Add your own pixel-style banner or GIFs.  
-
-Would you like me to add custom ASCII art or Minecraft-style text decorations? 🎮
