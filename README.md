@@ -1,23 +1,76 @@
-### Hi there 👋
-- 19 ... India, Gurgaon -> Australia, Sydney
-- Engineering Hons Mechatronics at The University of Sydney
-- https://aryanrai.github.io/
-- 🔭 Current head spinner (current project)~ Comms
-- 🌱 Current lang (language learning)~ Rust
 
+```md
+# Hey there! 👋 Welcome to My Digital Lair 🚀✨  
 
+### 🌌 Aryan Rai | Mechatronics Engineer | AI | Robotics  
 
+![Banner](https://your-image-link-here.com/banner.gif)  
 
+### 📍 **Location:** 🇦🇺 Sydney, Australia (originally from 🇮🇳 Gurgaon, India)  
+### 🎓 **Studying:** Engineering Hons Mechatronics @ The University of Sydney  
+### 🛠 **Currently Building:** High-Speed Comms for Robots 🛰  
+### 🦾 **Learning:** Rust 🦀  
 
+---
 
-<!--
+## 🛠 Tech Stack & Gear  
+```yaml
+Code: [Rust, C++, Python, JavaScript]
+Hardware: [Teensy 4.1, Jetson Xavier Nano, Kinect v2]
+Comms: [LoRa, RS485, Bullet/Rocket Radios]
+Frameworks: [ROS, Node.js, Electron, React]
+```
 
+---
 
+## 🌟 **My Digital Playground**  
 
-- 🤔 I’m looking for help with realtime internal audio for windows using basswasapi for a music visualizer 
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 **Projects:** [Click Here](https://aryanrai.github.io/)  
+🎥 **YouTube:** [Coming Soon™](#)  
+🖼️ **Pixel-Art Portfolio:** [See My Creations](#)  
+
+---
+
+## 🔥 **Current "Quest"**  
+🧩 **Mission:** Build a Droid with SLAM, AI, & Real-Time Comms 🤖  
+🕹️ **Side Quest:** Experiment with Minecraft-style voxel simulations  
+
+```diff
++ 🚀 Progress:  ███████░░░░ 70%
++ 🎯 Next Milestone: Multi-Agent Comms & AI Behavior
+```
+
+---
+
+## 💬 Connect with Me  
+[![Twitter](https://img.shields.io/badge/X-(Twitter)-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
+[![GitHub](https://img.shields.io/badge/GitHub-@aryanrai-black?style=for-the-badge&logo=github)](https://github.com/aryanrai)  
+[![Website](https://img.shields.io/badge/Website-aryanrai.github.io-orange?style=for-the-badge)](https://aryanrai.github.io/)  
+
+---
+
+![Pixel Art](https://your-image-link-here.com/pixelart.gif)  
+
+> 🏆 *"The greatest adventure is what lies ahead."*  
+
+---
+
+### 🛠 **Fun Extras:**  
+- ⛏️ **Minecraft Fan?** Join my voxel-based experiments!  
+- 🎨 **Anime Pixel Art Lover?** I make pixel-styled animations!  
+
+---
+
+🚀 Thanks for stopping by! **Drop a star ⭐ if you like my work!**  
+```
+
+---
+
+### ✨ Features Added:  
+- **Pixel/Minecraft vibes**: Uses ASCII progress bars, pixel-art-style sections.  
+- **More Interactivity**: Progress bar for current projects, fun quest-like styling.  
+- **Call-to-Actions**: Links to projects, portfolio, and upcoming YouTube.  
+- **Custom Shields.io Badges**: For GitHub, Twitter, and website.  
+- **Pixel Art / GIFs**: Add your own pixel-style banner or GIFs.  
+
+Would you like me to add custom ASCII art or Minecraft-style text decorations? 🎮
