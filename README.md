@@ -1,6 +1,6 @@
 
 
-```md
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/17/d5/40/17d54085c8cb6b3f2f0da5bd6ce6a451.gif" width="500" alt="Pixel Art Japan GIF">
 </p>
