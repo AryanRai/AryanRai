@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&color=FF5733&background=000000&center=true&vCenter=true&lines=Welcome+to+YANYAN's+World!;Mechatronics!;Rust+%7C+Robotics+%7C+LoRa+%7C+AI!;Real-Time+Comms+%7C+SLAM+%7C+Vision!">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&color=FF5733&background=224455&center=true&vCenter=true&lines=Welcome+to;YANYAN's+World!;Mechatronics!;">
 </p>
 
 ```
