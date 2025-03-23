@@ -54,9 +54,3 @@ Frameworks: [ROS, Node.js, Electron, React]
 > 🏆 *"The greatest adventure is what lies ahead."*  
 
 ---
-
-### 🛠 **Fun Extras:**  
-- ⛏️ **Minecraft Fan?** Join my voxel-based experiments!  
-- 🎨 **Anime Pixel Art Lover?** I make pixel-styled animations!  
-
----
