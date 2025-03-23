@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&color=FF5733&background=224455&center=true&vCenter=true&lines=Welcome+to;YANYAN's+World!;Mechatronics!;">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&color=FF0033&background=002255&center=true&vCenter=true&lines=Welcome+to;YANYAN's+World!;Mechatronics!;">
 </p>
 
 ```
