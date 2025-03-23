@@ -14,7 +14,7 @@
 
 
 
-🎌 **Aryan Rai | Electronic Artisan | Mechatronics | Robotics | Firmware | Software | Cybersecurity**  
+🎌 **Aryan Rai | Electronic Artisan | Mechatronics | Robotics | Firmware | Software |**  
 📍 **Location:** Sydney 🇦🇺 | Gurgaon 🇮🇳  
 🎓 **Uni:** Engineering Hons Mechatronics @ USYD  
 🛠 **Current Projects:** 🚀 BlueLily, ProjectSuperCluster, Comms, 5D3  
@@ -56,7 +56,7 @@ Tools: ["KiCad", "SolidWorks", ""]
 
 I create tools and systems that combine electronics, software, and mechanical elements into harmonious systems. My focus is on secure, robust systems that withstand both physical and digital challenges.
 
-When I'm not building hardware, I'm exploring cybersecurity concepts, playing with robotics, or designing new electronic systems.
+When I'm not building stuff, I travel, bike and cook.
 
 ---
 
