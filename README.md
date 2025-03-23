@@ -1,9 +1,17 @@
 
+---
+
+```md
 <p align="center">
   <img src="https://i.pinimg.com/originals/17/d5/40/17d54085c8cb6b3f2f0da5bd6ce6a451.gif" width="500" alt="Pixel Art Japan GIF">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&color=FF5733&background=000000&center=true&vCenter=true&lines=Welcome+to+YANYAN's+World!;Mechatronics+%26+AI+Droid+Dev!;Rust+%7C+Robotics+%7C+LoRa+%7C+AI!;Real-Time+Comms+%7C+SLAM+%7C+Vision!">
+</p>
+
 ```
+```md
 ██╗   ██╗ █████╗ ███╗   ██╗██╗   ██╗ █████╗ ███╗  ██╗
 ██║   ██║██╔══██╗████╗  ██║██║   ██║██╔══██╗████╗ ██║
 ██║   ██║███████║██╔██╗ ██║██║   ██║███████║██╔██╗██║
@@ -52,3 +60,6 @@ Comms: ["LoRa", "RS485", "Rocket Radios"]
 🀄 **"The machine obeys the one who masters it."** 🀄  
 
 🏯 **Thanks for visiting!** 🚀 *Drop a ⭐ if you liked it!*  
+```
+
+---
