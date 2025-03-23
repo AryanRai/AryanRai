@@ -8,7 +8,7 @@
 ### 📍 **Location:** 🇦🇺 Sydney, Australia (originally from 🇮🇳 Gurgaon, India)  
 ### 🎓 **Studying:** Engineering Hons Mechatronics @ The University of Sydney  
 ### 🛠 **Currently Building:** High-Speed Comms for Robots 🛰  
-### 🦾 **Learning:** Rust 🦀  
+### 🦾 **Learning:** Too much 🦀  
 
 ---
 
