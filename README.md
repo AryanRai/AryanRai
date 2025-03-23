@@ -12,12 +12,12 @@
   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚══╝
 ```
 
-🎌 **Aryan Rai | Mechatronics | Robotics | AI**  
+🎌 **Aryan Rai | Mechatronics | Robotics | Electronics | Embedded | Firmware| Software | Frontend | Physics | AI **  
 
 📍 **Location:** Sydney 🇦🇺 | Gurgaon 🇮🇳  
 🎓 **Uni:** Engineering Hons Mechatronics @ USYD  
-🛠 **Current Project:** 🚀 Real-Time Comms & AI Droid  
-🌱 **Learning:** 🦀 Rust  
+🛠 **Current Project:** 🚀 Comms, BlueLily, ProjectSuperCluster, 5D3
+🌱 **Learning:** 🦀 Life  
 
 ---
 
@@ -46,6 +46,7 @@ Comms: ["LoRa", "RS485", "Rocket Radios"]
 [![🌐 Website](https://img.shields.io/badge/Website-aryanrai.github.io-ffcc00?style=for-the-badge)](https://aryanrai.github.io/)  
 [![🐙 GitHub](https://img.shields.io/badge/GitHub-@aryanrai-333?style=for-the-badge&logo=github)](https://github.com/aryanrai)  
 [![📡 Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
+[![📡 Notion](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
 
 ---
 
