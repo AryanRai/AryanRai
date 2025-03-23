@@ -1,7 +1,12 @@
-Here’s your **minimal pixel-art, blocky Japanese-style GitHub README** with "YANYAN" in big text! 🎌🕹️  
 
 ---
 
+```md
+<p align="center">
+  <img src="https://i.pinimg.com/originals/17/d5/40/17d54085c8cb6b3f2f0da5bd6ce6a451.gif" width="500" alt="Pixel Art Japan GIF">
+</p>
+
+```
 ```md
 ██╗   ██╗ █████╗ ███╗   ██╗██╗   ██╗ █████╗ ███╗  ██╗
 ██║   ██║██╔══██╗████╗  ██║██║   ██║██╔══██╗████╗ ██║
@@ -25,7 +30,7 @@ Here’s your **minimal pixel-art, blocky Japanese-style GitHub README** with "Y
 OS: ["Linux", "Windows", "Mac"]
 Languages: ["Rust", "C++", "Python", "JavaScript"]
 Hardware: ["Teensy 4.1", "Jetson Xavier Nano", "Kinect v2"]
-Comms: ["LoRa", "RS485", ""]
+Comms: ["LoRa", "RS485", "Rocket Radios"]
 ```
 
 ---
@@ -54,3 +59,4 @@ Comms: ["LoRa", "RS485", ""]
 ```
 
 ---
+
