@@ -1,55 +1,56 @@
-
-# Hey there! 👋 Welcome to My Digital Lair 🚀✨  
-
-### 🌌 Aryan Rai | Mechatronics Engineer | AI | Robotics  
-
-![Banner](https://your-image-link-here.com/banner.gif)  
-
-### 📍 **Location:** 🇦🇺 Sydney, Australia (originally from 🇮🇳 Gurgaon, India)  
-### 🎓 **Studying:** Engineering Hons Mechatronics @ The University of Sydney  
-### 🛠 **Currently Building:** High-Speed Comms for Robots 🛰  
-### 🦾 **Learning:** Too much 🦀  
+Here’s your **minimal pixel-art, blocky Japanese-style GitHub README** with "YANYAN" in big text! 🎌🕹️  
 
 ---
 
-## 🛠 Tech Stack & Gear  
+```md
+██╗   ██╗ █████╗ ███╗   ██╗██╗   ██╗ █████╗ ███╗  ██╗
+██║   ██║██╔══██╗████╗  ██║██║   ██║██╔══██╗████╗ ██║
+██║   ██║███████║██╔██╗ ██║██║   ██║███████║██╔██╗██║
+╚██╗ ██╔╝██╔══██║██║╚██╗██║╚██╗ ██╔╝██╔══██║██║╚████║
+ ╚████╔╝ ██║  ██║██║ ╚████║ ╚████╔╝ ██║  ██║██║ ╚███║
+  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚══╝
+```
+
+🎌 **Aryan Rai | Mechatronics | Robotics | AI**  
+
+📍 **Location:** Sydney 🇦🇺 | Gurgaon 🇮🇳  
+🎓 **Uni:** Engineering Hons Mechatronics @ USYD  
+🛠 **Current Project:** 🚀 Real-Time Comms & AI Droid  
+🌱 **Learning:** 🦀 Rust  
+
+---
+
+## ⛩️ **道 - The Path**  
 ```yaml
-Code: [Rust, C++, Python, JavaScript]
-Hardware: [Teensy 4.1, Jetson Xavier Nano, Kinect v2]
-Comms: [LoRa, RS485, Bullet/Rocket Radios]
-Frameworks: [ROS, Node.js, Electron, React]
+OS: ["Linux", "Windows", "Mac"]
+Languages: ["Rust", "C++", "Python", "JavaScript"]
+Hardware: ["Teensy 4.1", "Jetson Xavier Nano", "Kinect v2"]
+Comms: ["LoRa", "RS485", ""]
 ```
 
 ---
 
-## 🌟 **My Digital Playground**  
-
-🎮 **Projects:** [Click Here](https://aryanrai.github.io/)  
-🎥 **YouTube:** [Coming Soon™](#)  
-🖼️ **Pixel-Art Portfolio:** [See My Creations](#)  
-
----
-
-## 🔥 **Current "Quest"**  
-🧩 **Mission:** Build a Droid with SLAM, AI, & Real-Time Comms 🤖  
-🕹️ **Side Quest:** Experiment with Minecraft-style voxel simulations  
+## 🎮 **「 Now Playing 」**  
+🕹️ **Main Mission:** AI Droid w/ SLAM & Vision 🏮  
+📡 **Side Quest:** Low-Latency Video Streaming 🔴  
 
 ```diff
 + 🚀 Progress:  ███████░░░░ 70%
-+ 🎯 Next Milestone: Multi-Agent Comms & AI Behavior
++ 🎯 Next: Multi-Agent AI Behavior & Comms Upgrade
 ```
 
 ---
 
-## 💬 Connect with Me  
-[![Twitter](https://img.shields.io/badge/X-(Twitter)-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
-[![GitHub](https://img.shields.io/badge/GitHub-@aryanrai-black?style=for-the-badge&logo=github)](https://github.com/aryanrai)  
-[![Website](https://img.shields.io/badge/Website-aryanrai.github.io-orange?style=for-the-badge)](https://aryanrai.github.io/)  
+## 🏯 **Links & Shrine**  
+[![🌐 Website](https://img.shields.io/badge/Website-aryanrai.github.io-ffcc00?style=for-the-badge)](https://aryanrai.github.io/)  
+[![🐙 GitHub](https://img.shields.io/badge/GitHub-@aryanrai-333?style=for-the-badge&logo=github)](https://github.com/aryanrai)  
+[![📡 Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
 
 ---
 
-![Pixel Art](https://your-image-link-here.com/pixelart.gif)  
+🀄 **"The machine obeys the one who masters it."** 🀄  
 
-> 🏆 *"The greatest adventure is what lies ahead."*  
+🏯 **Thanks for visiting!** 🚀 *Drop a ⭐ if you liked it!*  
+```
 
 ---
