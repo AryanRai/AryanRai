@@ -34,11 +34,11 @@ Tools: ["KiCad", "SolidWorks", ""]
 ---
 
 ## 🎮 **「 Now Playing 」**  
-🕹️ **Main Mission:** 🏮 Building secure firmware architectures  
-📡 **Side Quest:** 🔴 Exploring embedded cryptography  
+🕹️ **Main Mission:** 🏮 Comms, BlueLily, BD3
+📡 **Side Quest:** 🔴 Exploring embedded 
 ```diff
 + 🚀 Progress: ███████░░░░ 70%
-+ 🎯 Next: Launching BlueLily, a secure firmware update system
++ 🎯 Next: Launching Comms
 ```
 
 ---
@@ -47,7 +47,7 @@ Tools: ["KiCad", "SolidWorks", ""]
 
 - **BlueLily** - A secure firmware update system for aerospace applications
 - **Project SuperCluster** - Distributed compute system for embedded applications
-- **Comms** - Custom communication protocols for secure data transmission
+- **Comms** - Custom Control Suite 
 - **5D3** - Experimental robotics platform with advanced perception
 
 ---
