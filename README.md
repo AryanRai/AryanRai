@@ -21,7 +21,7 @@
 
 ---
 
-## ⛩️ **道 - The Path**  
+## ⛩️ **道 - The Path to the Dark Side**  
 ```yaml
 OS: ["Linux", "Windows", "Mac"]
 Languages: ["Rust", "C++", "Python", "JavaScript"]
