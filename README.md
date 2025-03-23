@@ -49,6 +49,6 @@ Comms: ["LoRa", "RS485", "Rocket Radios"]
 
 ---
 
-🀄 **"The machine obeys the one who masters it."** 🀄  
+🀄 **"“A good design is one which conveys itself without the use of words” ~Aryan Rai 2024"** 🀄  
 
 🏯 **Thanks for visiting!** 🚀 *Drop a ⭐ if you liked it!*  
