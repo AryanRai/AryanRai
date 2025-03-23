@@ -1,5 +1,4 @@
 
-```md
 # Hey there! 👋 Welcome to My Digital Lair 🚀✨  
 
 ### 🌌 Aryan Rai | Mechatronics Engineer | AI | Robotics  
