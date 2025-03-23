@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://tenor.com/view/minecraft-allay-mobvote-minecraft-live-mobvote2021-gif-23556599.gif" alt="Minecraft Allay" width="150"/>
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&color=FFFFFF&background=446677&center=true&vCenter=true&lines=Welcome+to;YANYAN's;Mechatronics+World!;">
 </p>
 
@@ -11,9 +12,7 @@
   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚══╝
 ```
 
-<p align="center">
-  <img src="https://tenor.com/view/minecraft-allay-mobvote-minecraft-live-mobvote2021-gif-23556599.gif" alt="Minecraft Allay" width="150"/>
-</p>
+
 
 🎌 **Aryan Rai | Electronic Artisan | Mechatronics | Robotics | Firmware | Software | Cybersecurity**  
 📍 **Location:** Sydney 🇦🇺 | Gurgaon 🇮🇳  
