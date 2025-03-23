@@ -52,6 +52,3 @@ Comms: ["LoRa", "RS485", "Rocket Radios"]
 🀄 **"The machine obeys the one who masters it."** 🀄  
 
 🏯 **Thanks for visiting!** 🚀 *Drop a ⭐ if you liked it!*  
-```
-
----
