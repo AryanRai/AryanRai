@@ -45,8 +45,7 @@ Tools: ["KiCad", "SolidWorks", ""]
 
 ## 🧰 **Projects & Creations**
 
-- **BlueLily** - A secure firmware update system for aerospace applications
-- **Project SuperCluster** - Distributed compute system for embedded applications
+- **BlueLily** - A sensing, actuation, communication and logic array for robotics and aerospace applications
 - **Comms** - Custom Control Suite 
 - **5D3** - Experimental robotics platform with advanced perception
 
