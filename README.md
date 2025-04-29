@@ -21,7 +21,7 @@
 
 ---
 
-## ⛩️ **道 - The Path of to the darkside**  
+## ⛩️ **道 - The Path to the darkside**  
 ```yaml
 OS: ["Linux", "Windows"]
 Languages: ["C/C++", "Python", "JavaScript/TypeScript", "C#", "Flutter (Partly)", "MATLAB (Partly)"]
