@@ -14,28 +14,31 @@
 
 
 
-🎌 **Aryan Rai | Electronic Artisan | Mechatronics | Robotics | Firmware | Software |**  
+🎌 **Aryan Rai | Electronics | Mechatronics | Robotics | Firmware | Software | Cloud | IoT | Embedded | Game Dev | Software |**  
 📍 **Location:** Sydney 🇦🇺 | Gurgaon 🇮🇳  
-🎓 **Uni:** Engineering Hons Mechatronics @ USYD  
-🛠 **Current Projects:** 🚀 BlueLily, ProjectSuperCluster, Comms, 5D3  
-🌱 **Learning:** 🦀 Life  
+🎓 **Uni:** Engineering Hons Mechatronics @ USYD | Electrical and Electronics Lead @ Sydney Interplanetary Rover Initative 
+🛠 **Current Projects:** 🚀 BlueLily, ProjectSuperCluster, Comms, 5D3 , StarSim
 
 ---
 
-## ⛩️ **道 - The Path of Creation**  
+## ⛩️ **道 - The Path of to the darkside**  
 ```yaml
-OS: ["Linux", "Windows", "macOS"]
-Languages: ["C/C++", "Rust", "Python", "JavaScript/TypeScript"]
-Hardware: ["STM32", "ESP32", "Microcontrollers"]
-Comms: ["I2C", "CAN", "Radios"]
-Tools: ["KiCad", "SolidWorks", ""]
+OS: ["Linux", "Windows"]
+Languages: ["C/C++", "Python", "JavaScript/TypeScript", "C#", "Flutter (Partly)", "MATLAB (Partly)"]
+Platform: ["STM32", "ESP32/8266", "Microcontrollers", "Nvidia Jetson", "Raspberry Pi", "Arduino"]
+Protocols: ["I2C", "SPI", "CAN", "RS485", "LORa", "Wifi", "Bluetooth", "BLE"]
+Database/Protocols/Cloud: ["SQL", "Firebase", "Google Cloud", "Suprabase", "Rest", "MQTT"]
+Tools: ["KiCad", "SolidWorks", "Latex", "Unity"]
+Power Electronics: ["Motors (Brushless FOC/ESC, Brushed, Servos, Stepper)", "Battery Systems (LIPo, Liion)", "Latex", "Unity", "Linear Actuators", "Relays/Switching Methods"]
+Skills: ["Soldering", "Hand tools", "Power tools/ machining"]
+Software Concepts: ["OpenCV", "LLMs", "Git"]
 ```
 
 ---
 
 ## 🎮 **「 Now Playing 」**  
-🕹️ **Main Mission:** 🏮 Comms, BlueLily, BD3
-📡 **Side Quest:** 🔴 Exploring embedded 
+🕹️ **Main Mission:** 🏮 Comms, BlueLily, DroidCore
+📡 **Side Quest:** 🔴 Exploring StarSim
 ```diff
 + 🚀 Progress: ███████░░░░ 70%
 + 🎯 Next: Launching Comms
@@ -45,15 +48,15 @@ Tools: ["KiCad", "SolidWorks", ""]
 
 ## 🧰 **Projects & Creations**
 
-- **BlueLily** - A sensing, actuation, communication and logic array for robotics and aerospace applications
-- **Comms** - Custom Control Suite 
-- **5D3** - Experimental robotics platform with advanced perception
+- **BlueLily** - A High-Performance Sensing, Control, Communication and Realtime Logic Array, customizable for Robotics, Flight Computer, High-Powered Rocketry, Payloads, and CubeSats
+- **Comms** - Centralized Communications dashboards for multi layered control ground stations
+- **DroidCore** - A fully custumizable robotics platfrom.
 
 ---
 
 ## 💭 **Personal Philosophy**
 
-I create tools and systems that combine electronics, software, and mechanical elements into harmonious systems. My focus is on secure, robust systems that withstand both physical and digital challenges.
+I am Aryan a passionate tech visionary who loves to explore, innovate & continuously strive to challenge myself and pilot new ideas in creating technology with the right human and machine partnership.
 
 When I'm not building stuff, I travel, bike and cook.
 
