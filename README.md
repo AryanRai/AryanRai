@@ -32,6 +32,7 @@ Tools: ["KiCad", "SolidWorks", "Latex", "Unity"]
 Power Electronics: ["Motors (Brushless FOC/ESC, Brushed, Servos, Stepper)", "Battery Systems (LIPo, Liion)", "Latex", "Unity", "Linear Actuators", "Relays/Switching Methods"]
 Skills: ["Soldering", "Hand tools", "Power tools/ machining"]
 Software Concepts: ["OpenCV", "LLMs", "Git"]
+UI: ["Figma", "CSS", "Tailwind", "Bootstrap", "DaisyUI"]
 ```
 
 ---
