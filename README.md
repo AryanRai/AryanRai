@@ -17,7 +17,7 @@
 🎌 **Aryan Rai | Electronics | Mechatronics | Robotics | Firmware | Software | Cloud | IoT | Embedded | Game Dev | Software |**  
 📍 **Location:** Sydney 🇦🇺 | Gurgaon 🇮🇳  
 🎓 **Uni:** Engineering Hons Mechatronics @ USYD | Electrical and Electronics Lead @ Sydney Interplanetary Rover Initative 
-🛠 **Current Projects:** 🚀 BlueLily, ProjectSuperCluster, Comms, 5D3 , StarSim
+🛠 **Current Projects:** 🚀 Astro, Comms, StarSim, BlueLily
 
 ---
 ## **What im upto**
@@ -47,26 +47,27 @@ UI: ["Figma", "CSS", "Tailwind", "Bootstrap", "DaisyUI"]
 ---
 
 ## 🎮 **「 Now Playing 」**  
-🕹️ **Main Mission:** 🏮 Comms, BlueLily, DroidCore
+🕹️ **Main Mission:** 🏮 Comms, BlueLily, DroidCore: Astro
 📡 **Side Quest:** 🔴 Exploring StarSim
 ```diff
 + 🚀 Progress: ███████░░░░ 70%
-+ 🎯 Next: Launching Comms
++ 🎯 Next: CADing Astro
 ```
 
 ---
 
 ## 🧰 **Projects & Creations**
 
+- **DroidCore** : Astro_x1 - A fully customizable robotics platfrom.
 - **BlueLily** - A High-Performance Sensing, Control, Communication and Realtime Logic Array, customizable for Robotics, Flight Computer, High-Powered Rocketry, Payloads, and CubeSats
-- **Comms** - Centralized Communications dashboards for multi layered control ground stations
-- **DroidCore** - A fully custumizable robotics platfrom.
+- **Comms** - Centralised Communications dashboards for multi-layered control ground stations
+
 
 ---
 
 ## 💭 **Personal Philosophy**
 
-I am Aryan a passionate tech visionary who loves to explore, innovate & continuously strive to challenge myself and pilot new ideas in creating technology with the right human and machine partnership.
+I am Aryan, a passionate tech visionary who loves to explore, innovate & continuously strive to challenge myself and pilot new ideas in creating technology with the right human and machine partnership.
 
 When I'm not building stuff, I travel, bike and cook.
 
