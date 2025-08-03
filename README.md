@@ -20,6 +20,15 @@
 🛠 **Current Projects:** 🚀 BlueLily, ProjectSuperCluster, Comms, 5D3 , StarSim
 
 ---
+## 🧰 **What im upto**
+
+- **ANT61** - Embedded Engineering Intern: My code's in space!!
+- **Sydney Interplanetary Rover Initiative** - Electrical Lead: Building a rover, will present at IAC 2025 
+- **USYD Rocketry** - GroundControl Engineer - Made DAQ systems for logging onboard rocket
+- **Sydney UAV** - Project FASTR - Drone pilot, software and drone building
+- **Satellite Club** - CANSAT Building
+
+---
 
 ## ⛩️ **道 - The Path to the darkside**  
 ```yaml
