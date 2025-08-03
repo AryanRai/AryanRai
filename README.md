@@ -61,7 +61,7 @@ UI: ["Figma", "CSS", "Tailwind", "Bootstrap", "DaisyUI"]
 - **DroidCore** : Astro_x1 - A fully customizable robotics platfrom.
 - **BlueLily** - A High-Performance Sensing, Control, Communication and Realtime Logic Array, customizable for Robotics, Flight Computer, High-Powered Rocketry, Payloads, and CubeSats
 - **Comms** - Centralised Communications dashboards for multi-layered control ground stations
-
+- **StarSim** - embedded physics engine for simulation and real-time deployment
 
 ---
 
