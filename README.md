@@ -20,7 +20,7 @@
 🛠 **Current Projects:** 🚀 Astro, Comms, StarSim, BlueLily
 
 ---
-## **What im upto**
+## 👍 **What im upto**
 
 - **ANT61** - Embedded Engineering Intern: My code's going to space!!
 - **Sydney Interplanetary Rover Initiative** - Electrical Lead: Building a rover, will present at IAC 2025 
@@ -29,6 +29,12 @@
 - **Satellite Club** - CANSAT Building
 
 ---
+
+## (❁´◡`❁) **Portfolio**
+[![🌐 Portfolio](https://img.shields.io/badge/Website-aryanrai.github.io-ffcc00?style=for-the-badge)](https://www.canva.com/design/DAGrMs5FilU/B8yaZq9XQcU6J3cw5SShiA/edit?utm_content=DAGrMs5FilU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+[![🌐 Resume](https://img.shields.io/badge/Website-aryanrai.github.io-ffcc00?style=for-the-badge)](https://tqelchlmlsqjqrpfbeio.supabase.co/storage/v1/object/public/resume/1750703265625-Aryan%20Rai%20Resume%20Current%20140625.pdf)  
+
+
 
 ## ⛩️ **道 - The Path to the darkside**  
 ```yaml
