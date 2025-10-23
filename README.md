@@ -26,7 +26,6 @@
 - **Sydney Interplanetary Rover Initiative** - Electrical Lead: Building a rover, will present at IAC 2025 
 - **USYD Rocketry** - GroundControl Engineer - Made DAQ systems for logging onboard rocket
 - **Sydney UAV** - Project FASTR - Drone pilot, software and drone building
-- **Satellite Club** - CANSAT Building
 
 ---
 
