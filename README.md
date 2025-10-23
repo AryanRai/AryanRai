@@ -70,14 +70,6 @@ UI: ["Figma", "CSS", "Tailwind", "Bootstrap", "DaisyUI"]
 
 ---
 
-## 💭 **Personal Philosophy**
-
-I am Aryan, a passionate tech visionary who loves to explore, innovate & continuously strive to challenge myself and pilot new ideas in creating technology with the right human and machine partnership.
-
-When I'm not building stuff, I travel, bike and cook.
-
----
-
 ## 🏯 **Links & Shrine**  
 [![🌐 Website](https://img.shields.io/badge/Website-aryanrai.github.io-ffcc00?style=for-the-badge)](https://aryanrai.github.io/)  
 [![🐙 GitHub](https://img.shields.io/badge/GitHub-@aryanrai-333?style=for-the-badge&logo=github)](https://github.com/aryanrai)  
