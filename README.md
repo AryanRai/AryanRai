@@ -31,7 +31,7 @@
 
 ## (❁´◡`❁) **Portfolio**
 [![🌐 Portfolio](https://img.shields.io/badge/Portfolio-aryanrai.github.io-ffcc00?style=for-the-badge)](https://www.canva.com/design/DAGrMs5FilU/B8yaZq9XQcU6J3cw5SShiA/edit?utm_content=DAGrMs5FilU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
-[![🌐 Resume](https://img.shields.io/badge/Resume-aryanrai.github.io-ffcc00?style=for-the-badge)](https://tqelchlmlsqjqrpfbeio.supabase.co/storage/v1/object/public/resume/1750703265625-Aryan%20Rai%20Resume%20Current%20140625.pdf)  
+[![🌐 Resume](https://img.shields.io/badge/Resume-aryanrai.github.io-ffbb00?style=for-the-badge)](https://tqelchlmlsqjqrpfbeio.supabase.co/storage/v1/object/public/resume/1750703265625-Aryan%20Rai%20Resume%20Current%20140625.pdf)  
 
 
 
