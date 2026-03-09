@@ -21,7 +21,7 @@
 
 ---
 ## 👍 **What im upto**
-
+- **Imitation Machines** - Robotics Software Engineer Part-time: Imitation learning for robotics
 - **ANT61** - Embedded Engineering Intern: My code's going to space!!
 - **Sydney Interplanetary Rover Initiative** - Electrical Lead: Building a rover, will present at IAC 2025 
 - **USYD Rocketry** - GroundControl Engineer - Made DAQ systems for logging onboard rocket
